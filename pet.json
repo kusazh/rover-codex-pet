@@ -1,6 +1,6 @@
 {
   "id": "rover",
-  "displayName": "Rover",
-  "description": "A golden desktop dog pet converted from the rover-app animation frames.",
+  "displayName": "Rover the Dog",
+  "description": "The golden dog from Windows XP.",
   "spritesheetPath": "spritesheet.webp"
 }
