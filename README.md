@@ -1,8 +1,22 @@
-# Rover the Dog for Codex pet
+# Rover the Dog for Codex Pet
 
 The golden dog from Windows XP, packaged as a Codex custom pet.
 
-![Rover the Dog contact sheet](contact-sheet.png)
+| Running right | Running left |
+| --- | --- |
+| ![Running right](gifs/running-right.gif) | ![Running left](gifs/running-left.gif) |
+
+| Waving | Jumping |
+| --- | --- |
+| ![Waving](gifs/waving.gif) | ![Jumping](gifs/jumping.gif) |
+
+| Failed | Waiting |
+| --- | --- |
+| ![Failed](gifs/failed.gif) | ![Waiting](gifs/waiting.gif) |
+
+| Running | Review |
+| --- | --- |
+| ![Running](gifs/running.gif) | ![Review](gifs/review.gif) |
 
 ## Install
 
